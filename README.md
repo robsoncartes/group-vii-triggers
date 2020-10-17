@@ -17,10 +17,10 @@ Aqui pode vir uma descrição do ambiente necessário para realização desse la
 
 ### Membros do Grupo
 
-|             **Nome**    	        |             **Email**          	|                **Github**            	    |
-|:---------------------------------:|:---------------------------------:|:-----------------------------------------:|
-|   Francilei Augusto dos Santos 	|   rodolfodossantos29@gmail.com 	|   https://github.com/augustodossantosti	|
-|   Jonathan Cezar de Souza Silva  	|   joohnnathans@gmail.com   	    |   https://github.com/joohnnathans	        |
-|   Matheus Henrique Gonçalves  	|   matheushgf.ferreira@gmail.com   |   https://github.com/matheushgf 	        |
-|   Railson Tales de Oliveira  	    |   railson777@gmail.com  	        |   https://github.com/RailsonTales  	    |
-|   Robson de Sousa 	            |   robsoncartes@outlook.com        |   https://github.com/robsoncartes  	    |
+|             **Nome**    	     |             **Email**           |                **Github**            	 |
+|:------------------------------:|:-------------------------------:|:---------------------------------------:|
+| Francilei Augusto dos Santos   |  augustodossantos.ti@gmail.com  |  https://github.com/augustodossantosti  |
+| Jonathan Cezar de Souza Silva  |  joohnnathans@gmail.com   	   |  https://github.com/joohnnathans	     |
+| Matheus Henrique Gonçalves  	 |  matheushgf.ferreira@gmail.com  |  https://github.com/matheushgf 	     |
+| Railson Tales de Oliveira  	 |  railson777@gmail.com  	       |  https://github.com/RailsonTales  	     |
+| Robson de Sousa 	             |  robsoncartes@outlook.com       |  https://github.com/robsoncartes  	     |
