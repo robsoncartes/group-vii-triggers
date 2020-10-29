@@ -2,7 +2,7 @@ alter table job_history add (sal_old number(8, 2), new_department_id number(4, 0
     new_job_id varchar2(10), sal_new number(8, 2)
 );
 
-create or replace PROCEDURE add_job_history
+CREATE OR REPLACE PROCEDURE add_job_history
   (  p_emp_id          job_history.employee_id%type
    , p_start_date      job_history.start_date%type
    , p_end_date        job_history.end_date%type

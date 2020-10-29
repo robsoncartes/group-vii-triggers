@@ -1,4 +1,4 @@
-create or replace TRIGGER update_job_history
+CREATE OR REPLACE TRIGGER update_job_history
   AFTER UPDATE OF job_id, department_id ON employees
   FOR EACH ROW
     
